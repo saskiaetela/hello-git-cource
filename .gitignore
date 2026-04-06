@@ -1,0 +1,4 @@
+# Filter out specific test and compiled files
+*.in
+*.out
+*.pyc
